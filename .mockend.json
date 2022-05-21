@@ -1,6 +1,6 @@
 {
     "User": {
-        "name": { "string": { "minLength": 3, "maxLength": 10 } },
+        "name": "eren",
         "online": { "boolean": {} },
         "picture": { "regexp": "https://…" }
     }
